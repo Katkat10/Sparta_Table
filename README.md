@@ -14,3 +14,4 @@ Complete the `Table` class in `restaurant.py`. It should be able to instantiate 
 - You can run the tests in `test_module.py` at any time to test your code using pytest or unittest
 - Add, commit and push your changes to your own branch regularly
 - Do not push non-relevant files
+- Do not create a pull request
