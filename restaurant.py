@@ -48,3 +48,5 @@ class Table:
         split_cost = math.ceil(subtotal / self.diners * 100) / 100
         return split_cost
 
+
+
